@@ -18,6 +18,7 @@ function Home() {
       age: parseInt(inputAge.current.value),
       name: inputName.current.value
     })
+    
   }
 
 
